@@ -1,0 +1,6 @@
+<Response>
+    <Dial>
+      <User>sip:Billimari150513085212@phone.plivo.com
+	</User>
+    </Dial>
+</Response>
