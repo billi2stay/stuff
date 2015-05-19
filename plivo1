@@ -3,10 +3,5 @@
       <User>sip:Billimari150513085212@phone.plivo.com
 	</User>
     </Dial>
-  
-    <Dial callerId="61288805575">
-        <Number>61288805575</Number> 
-    </Dial> 
-
 </Response>
 
