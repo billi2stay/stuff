@@ -3,8 +3,4 @@
       <User>sip:Billimari150513085212@phone.plivo.com
 	</User>
 </Response>
-<Response> 
-    <Dial callerId="18004321321">
-        <Number>18001231234</Number> 
-    </Dial> 
-</Response>
+
